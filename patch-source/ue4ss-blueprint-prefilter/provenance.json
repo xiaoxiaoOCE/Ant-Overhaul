@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "upstreamVersion": "v3.0.1-1183-gcdbc0b66",
+  "upstreamCommit": "cdbc0b66cb2bb5b4a3d2f69b6e61a8460961e54c",
+  "upstreamRepository": "https://github.com/UE4SS-RE/RE-UE4SS",
+  "officialDeveloperArchiveURL": "https://github.com/UE4SS-RE/RE-UE4SS/releases/download/experimental/zDEV-UE4SS_v3.0.1-1183-gcdbc0b66.zip",
+  "officialDeveloperArchiveSha256": "2b634e7e1446b360599c01419d8ca14823a5138fa7fdf8f7fc28a50a13054908",
+  "officialDllSha256": "c273e7228687b647226fd63d7ca65888d313ece6be18996ec1320d00a5efe1f8",
+  "patchedDllSha256": "46c90c1a89a778da039f397681c4f6b34cb046d6e8c81f5881c09f5515685c9d",
+  "dllBytes": 20641280,
+  "differentByteCount": 56,
+  "patchSource": {
+    "build.py": "194081f69314c0e78e014dfcc9cdee53f1d7929867634cf37836f5942586342d",
+    "prefilter.s": "3de14f1993173b3274c80e3f659914ef5998d6ad3eb95373a66405e0af93b8a5"
+  },
+  "regularBuildActuallyVerified": true,
+  "syntheticLeafAbiTestsPassed": true,
+  "compiler": {
+    "version": "clang version 14.0.1 (https://github-com-cache.bf.unity3d.com/Unity-Technologies/llvm-project c62053979489ccb002efe411c3af059addcb5d7d)",
+    "target": "x86_64-pc-windows-msvc",
+    "sha256": "3da366ca1f958a092388d20480d1e5798a94b3d3271fbddfb53fdcc20e7c7929",
+    "origin": "Existing Unity-bundled LLVM14; assembler dependency, not included in this archive."
+  },
+  "outputMatchesFrozenReleasePayload": true,
+  "licenseSha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e",
+  "proxyDllSha256": "f8bec398fcbb2e3e8d1ef2875cafcc15d09f82073402fc9879a9cbf78b8d9514",
+  "proxyMatchesOfficialArchive": true
+}

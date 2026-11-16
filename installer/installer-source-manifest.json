@@ -1,0 +1,126 @@
+{
+  "schema": 1,
+  "release": "0.2.0",
+  "sourceOnly": true,
+  "files": [
+    {
+      "path": "release-builder/Build-Installer-0.2.0.ps1",
+      "sha256": "41760603303c04b32ab2e349144e9324a333e997e80fa2126545f3225becb617",
+      "length": 15143
+    },
+    {
+      "path": "release-builder/prepare_runtime.py",
+      "sha256": "3f2aa2dd493e8062fcfe4b53102aeb7ec644001a2df04621b2056852f1f202c4",
+      "length": 17447
+    },
+    {
+      "path": "release-builder/RuntimePolicy.ps1.in",
+      "sha256": "00092e355fc5661f4e299bd70c1c1208cdda06d6732afcf49e3da2968ae3f43d",
+      "length": 3998
+    },
+    {
+      "path": "release-builder/docs/README.en.txt",
+      "sha256": "e08975b64ae6fd599fa0483020400f3dad6307f3e1e74700bd64141cd9deb3c5",
+      "length": 2284
+    },
+    {
+      "path": "release-builder/docs/README.zh-CN.txt",
+      "sha256": "c676524dc5d08dc3c4c4e632880088163f993caff2f19c7874d1c2ccf9cd804e",
+      "length": 2139
+    },
+    {
+      "path": "release-builder/export_sources.py",
+      "sha256": "af973d4dface7c25957c25a8bf5b2620c498a429b3635885e2de924129521c0c",
+      "length": 2984
+    },
+    {
+      "path": "delivery-src/Manage-Mod-0.1.18.ps1",
+      "sha256": "4fc79ed7482bd05546b09cd3f275e18927c9da50d1129ee4b97a33f945c1a07b",
+      "length": 26110
+    },
+    {
+      "path": "delivery-src/Update-Mod-0.1.18.ps1",
+      "sha256": "b8e27d3adcb0b7269cc8957f4080fe7aef5356d473bfbb15bf068f23e225741a",
+      "length": 24268
+    },
+    {
+      "path": "installer-src/backend/Backend-0.1.18.ps1",
+      "sha256": "97f82bb19c8eb81a9fc83776320fd83d6c8c2ee141aeea38beb5c795ed86bf7a",
+      "length": 21424
+    },
+    {
+      "path": "installer-src/uninstall/AutoPrepare-0.1.18.cs",
+      "sha256": "04ee7df4fb798e95f51b49048c97e0244915aea2660ae79c7f29d3d48b359b9f",
+      "length": 52196
+    },
+    {
+      "path": "installer-src/uninstall/SavePatcher-0.1.18.cs",
+      "sha256": "bbedf09cbcbc4723295397f06c7c160463c8023d033ac915ca37d12fdae7c2d0",
+      "length": 27374
+    },
+    {
+      "path": "installer-src/uninstall/health-reference-0.1.18.json",
+      "sha256": "4ac47d356007430932d0f7760d47842b87f8b180552d185de53ab300e0968ebb",
+      "length": 53929
+    },
+    {
+      "path": "installer-src/app.manifest",
+      "sha256": "951db1e0b7cb3041add014e6e5d91e735536c56bebc6a5ab4f095c6c04274dc0",
+      "length": 1033
+    },
+    {
+      "path": "installer-src/ManualManager.ps1",
+      "sha256": "d2609c438b5e4611c19054b21cc336d8424acf45026e0998e896ea7195e04403",
+      "length": 2043
+    },
+    {
+      "path": "installer-src/assets/EotU-Steam-Logo.png",
+      "sha256": "ad5d7e8993476b29aa50d3348810abf407e17f6e3f135303aa6e3e5b09021462",
+      "length": 172459
+    },
+    {
+      "path": "installer-src/assets/NexusMods-Icon.png",
+      "sha256": "c03d6fd060e08be9855ac8a68f105feb41344d0370d40c28d6ba7e6db1cb21be",
+      "length": 12663
+    },
+    {
+      "path": "installer-src/ui/AnimatedButton.cs",
+      "sha256": "367393d8996c8ace481f1191e36dff316a204ce44bc7ffa908e021dc78bf9a8d",
+      "length": 4628
+    },
+    {
+      "path": "installer-src/ui/BackendClient.cs",
+      "sha256": "18c9122e78f1e14c1aab73862e2d9e6e83aebb49e9806ccb91ef124d49a08bf2",
+      "length": 9321
+    },
+    {
+      "path": "installer-src/ui/LogWindow.cs",
+      "sha256": "73477b1d8740beb68d4e3fdba9bbd1c55caca678fe7aa6e8a3b05601b19992a1",
+      "length": 4304
+    },
+    {
+      "path": "installer-src/ui/MainWindow.cs",
+      "sha256": "064675dd98d376c1d2750e517327b0594890a32c26a1fc02639670639faeefda",
+      "length": 19366
+    },
+    {
+      "path": "installer-src/ui/Program.cs",
+      "sha256": "079946326c6cf269b847c06fd8711de8794e71fc7823a0f0e945b4fbfd1a9f8c",
+      "length": 3158
+    },
+    {
+      "path": "installer-src/ui/SteamLocator.cs",
+      "sha256": "ffa4ecd293ed81c782569b99fb11f7ef6624e979dfc8665634f72ebce8248bbc",
+      "length": 3122
+    }
+  ],
+  "noPayloadBinaries": true,
+  "rebuild": "Use release-builder/Build-Installer-0.2.0.ps1 with -ProjectRoot pointing at this exported directory, explicit final -FreezeManifest and -ExpectedFreezeSha256, -PayloadRoot pointing at a separately obtained directory containing only the 67 frozen payload files, and explicit helper/reference paths under installer-src/uninstall. OutputRoot must be a new directory.",
+  "requirements": [
+    "Windows",
+    "Python3.10+",
+    "Microsoft .NET Framework4.8 csc and reference assemblies",
+    "Separate complete frozen payload including genuine asset PAK and audited UE4SS DLL; neither is hidden in this source-only export."
+  ],
+  "uiSelection": "Selected legacy 0.1.18 overrides are exported into installer-src/ui directly. Builder only changes 0.1.18→0.2.0 and Nexus link to mods/29; original layout, logo pixels and controls preserved."
+}

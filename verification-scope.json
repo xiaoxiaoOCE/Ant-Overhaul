@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "release": "0.2.0",
+  "scope": "Sanitized release-validation summary; no private QA logs, player state or local install records are included.",
+  "runtimePayload": {
+    "managedFiles": 67,
+    "luaModules": 56,
+    "format": "hybrid-real-pak-and-ue4ss"
+  },
+  "sourceChecks": {
+    "all56LuaModulesSyntaxPassed": true,
+    "all56LuaModulesMatchReleasePayload": true,
+    "announcementSectionsChecked": 10,
+    "announcementLanguages": [
+      "zh",
+      "en"
+    ],
+    "announcementRelease": "0.2.0"
+  },
+  "resourceChecks": {
+    "cookedFiles": 14,
+    "independentPakReader": "repak_cli0.2.3",
+    "all14ContentHashesMatch": true,
+    "all7NativeAssetObjectsLoaded": true,
+    "nativeLoadScope": "Object existence, types and basic cooked attributes; not a new exhaustive visual/gameplay playback test."
+  },
+  "loaderChecks": {
+    "authoredAssemblyActuallyBuilt": true,
+    "originalSyntheticLeafAbiTestsPassed": true,
+    "rebuiltDllMatchesFrozenRuntime": true,
+    "thirdPartyLocalPatchDeclared": true,
+    "provenance": "patch-source/ue4ss-blueprint-prefilter/provenance.json"
+  },
+  "gameplayComparison": {
+    "mechanicsUnchangedByReleasePackaging": true,
+    "baseline": "Verified local installed development snapshot used for the release freeze; this is not a claim of no changes versus public0.1.18."
+  },
+  "privacy": {
+    "nativeSavesIncluded": false,
+    "userPreferencesIncluded": false,
+    "gameLogsIncluded": false,
+    "rawInstallRecordsIncluded": false,
+    "qaBridgesIncluded": false,
+    "runtimeExeDllIncluded": false,
+    "nestedArchivesIncluded": false
+  }
+}

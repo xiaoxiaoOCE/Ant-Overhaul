@@ -1,0 +1,537 @@
+{
+  "schema": 1,
+  "release": "0.2.0",
+  "scope": "Source-only review; cooked assets and branding images are non-executable input data.",
+  "files": [
+    {
+      "path": "assets/cooked/EotU/Content/EAA/DriverExecutionContinuousDashV7.uasset",
+      "length": 1520,
+      "sha256": "ef9c82dffb166cb8763ffd60528011e628f965829a658e8a79f360e27499ceb8"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/DriverExecutionContinuousDashV7.uexp",
+      "length": 127283,
+      "sha256": "4f53e3c68deb8428bcf302db71298a3268ed3a59476143e78ef552ceafdc3d2a"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/DriverExecutionContinuousHoldV9.uasset",
+      "length": 2469,
+      "sha256": "0781a5a783729a3a077c931036d8acc81b04b11476f6ee5c2db11112906e6bd0"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/DriverExecutionContinuousHoldV9.uexp",
+      "length": 113747,
+      "sha256": "b2e9a3974e6609cd62b96a1bd1b958b4cab3dcc8758636e7248c2bb89ad80806"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/ExecutionDriverAnimBP.uasset",
+      "length": 23593,
+      "sha256": "bc3b871fed197fe3e801890c15b12941bc968c6f723aa03e03286de55c33250c"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/ExecutionDriverAnimBP.uexp",
+      "length": 74109,
+      "sha256": "53d0de0dfe93685ef059c854588292e11cbbe699c8a32dcf6e918e4446d0cf4e"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/ExecutionDriverMediumAnimBP.uasset",
+      "length": 3837,
+      "sha256": "e5d22ede6da34e60f647c641ba49cf64b59dc7e9e5093e410ef581ecc5fa6457"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/ExecutionDriverMediumAnimBP.uexp",
+      "length": 1182,
+      "sha256": "3e426dbea1588d4bd2f539b3170d8bec261464ddd5bd32afb4b65f8583a4d679"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/ExecutionPreyRestrainedV8.uasset",
+      "length": 1499,
+      "sha256": "dadf5a5a319953b6029d529bc98453e6458255f59bbc85f23cab1c8fd7e30fca"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/ExecutionPreyRestrainedV8.uexp",
+      "length": 104412,
+      "sha256": "227eb6b6321db33f62e84d9ea354d9e3fbca28c1baae835621cf6b56aa80dbb7"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/RendBloodV1.uasset",
+      "length": 8349,
+      "sha256": "8996d7e08d75bb478c7a87602b69fbe7dd8f135025b1a839311bda4ccc55912a"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/RendBloodV1.uexp",
+      "length": 15037,
+      "sha256": "8c1e2fcff4405710b9fe503d6a318c1dd45abd5e0506632dc64a6d8dc6962fbd"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/TrapjawFireAntStingV1.uasset",
+      "length": 2445,
+      "sha256": "d0820e0df4be8cb7491e9f8f1ce6b81352e839954decb6c783ce5b2fe068f397"
+    },
+    {
+      "path": "assets/cooked/EotU/Content/EAA/TrapjawFireAntStingV1.uexp",
+      "length": 13669,
+      "sha256": "6266f8cbcfa35513b51b8ab0ba90c7f3f4579a4c2a0244eebfa367660ff58a33"
+    },
+    {
+      "path": "assets/manifest.json",
+      "length": 2826,
+      "sha256": "ab9365fd4267a4c45b3b1adef98ab21cb8a4fac7a0bdbfe8c222ee1665777e1f"
+    },
+    {
+      "path": "installer/delivery-src/Manage-Mod-0.1.18.ps1",
+      "length": 26110,
+      "sha256": "4fc79ed7482bd05546b09cd3f275e18927c9da50d1129ee4b97a33f945c1a07b"
+    },
+    {
+      "path": "installer/delivery-src/Update-Mod-0.1.18.ps1",
+      "length": 24268,
+      "sha256": "b8e27d3adcb0b7269cc8957f4080fe7aef5356d473bfbb15bf068f23e225741a"
+    },
+    {
+      "path": "installer/installer-source-manifest.json",
+      "length": 4875,
+      "sha256": "096a060f3b4a1f3180199efca0406b847be41ec0a0ce2ebe082a4cadace2a09f"
+    },
+    {
+      "path": "installer/installer-src/app.manifest",
+      "length": 1033,
+      "sha256": "951db1e0b7cb3041add014e6e5d91e735536c56bebc6a5ab4f095c6c04274dc0"
+    },
+    {
+      "path": "installer/installer-src/assets/EotU-Steam-Logo.png",
+      "length": 172459,
+      "sha256": "ad5d7e8993476b29aa50d3348810abf407e17f6e3f135303aa6e3e5b09021462"
+    },
+    {
+      "path": "installer/installer-src/assets/NexusMods-Icon.png",
+      "length": 12663,
+      "sha256": "c03d6fd060e08be9855ac8a68f105feb41344d0370d40c28d6ba7e6db1cb21be"
+    },
+    {
+      "path": "installer/installer-src/backend/Backend-0.1.18.ps1",
+      "length": 21424,
+      "sha256": "97f82bb19c8eb81a9fc83776320fd83d6c8c2ee141aeea38beb5c795ed86bf7a"
+    },
+    {
+      "path": "installer/installer-src/ManualManager.ps1",
+      "length": 2043,
+      "sha256": "d2609c438b5e4611c19054b21cc336d8424acf45026e0998e896ea7195e04403"
+    },
+    {
+      "path": "installer/installer-src/ui/AnimatedButton.cs",
+      "length": 4628,
+      "sha256": "367393d8996c8ace481f1191e36dff316a204ce44bc7ffa908e021dc78bf9a8d"
+    },
+    {
+      "path": "installer/installer-src/ui/BackendClient.cs",
+      "length": 9321,
+      "sha256": "18c9122e78f1e14c1aab73862e2d9e6e83aebb49e9806ccb91ef124d49a08bf2"
+    },
+    {
+      "path": "installer/installer-src/ui/LogWindow.cs",
+      "length": 4304,
+      "sha256": "73477b1d8740beb68d4e3fdba9bbd1c55caca678fe7aa6e8a3b05601b19992a1"
+    },
+    {
+      "path": "installer/installer-src/ui/MainWindow.cs",
+      "length": 19366,
+      "sha256": "064675dd98d376c1d2750e517327b0594890a32c26a1fc02639670639faeefda"
+    },
+    {
+      "path": "installer/installer-src/ui/Program.cs",
+      "length": 3158,
+      "sha256": "079946326c6cf269b847c06fd8711de8794e71fc7823a0f0e945b4fbfd1a9f8c"
+    },
+    {
+      "path": "installer/installer-src/ui/SteamLocator.cs",
+      "length": 3122,
+      "sha256": "ffa4ecd293ed81c782569b99fb11f7ef6624e979dfc8665634f72ebce8248bbc"
+    },
+    {
+      "path": "installer/installer-src/uninstall/AutoPrepare-0.1.18.cs",
+      "length": 52196,
+      "sha256": "04ee7df4fb798e95f51b49048c97e0244915aea2660ae79c7f29d3d48b359b9f"
+    },
+    {
+      "path": "installer/installer-src/uninstall/health-reference-0.1.18.json",
+      "length": 53929,
+      "sha256": "4ac47d356007430932d0f7760d47842b87f8b180552d185de53ab300e0968ebb"
+    },
+    {
+      "path": "installer/installer-src/uninstall/SavePatcher-0.1.18.cs",
+      "length": 27374,
+      "sha256": "bbedf09cbcbc4723295397f06c7c160463c8023d033ac915ca37d12fdae7c2d0"
+    },
+    {
+      "path": "installer/release-builder/Build-Installer-0.2.0.ps1",
+      "length": 15143,
+      "sha256": "41760603303c04b32ab2e349144e9324a333e997e80fa2126545f3225becb617"
+    },
+    {
+      "path": "installer/release-builder/docs/README.en.txt",
+      "length": 2284,
+      "sha256": "e08975b64ae6fd599fa0483020400f3dad6307f3e1e74700bd64141cd9deb3c5"
+    },
+    {
+      "path": "installer/release-builder/docs/README.zh-CN.txt",
+      "length": 2139,
+      "sha256": "c676524dc5d08dc3c4c4e632880088163f993caff2f19c7874d1c2ccf9cd804e"
+    },
+    {
+      "path": "installer/release-builder/export_sources.py",
+      "length": 2984,
+      "sha256": "af973d4dface7c25957c25a8bf5b2620c498a429b3635885e2de924129521c0c"
+    },
+    {
+      "path": "installer/release-builder/prepare_runtime.py",
+      "length": 17447,
+      "sha256": "3f2aa2dd493e8062fcfe4b53102aeb7ec644001a2df04621b2056852f1f202c4"
+    },
+    {
+      "path": "installer/release-builder/RuntimePolicy.ps1.in",
+      "length": 3998,
+      "sha256": "00092e355fc5661f4e299bd70c1c1208cdda06d6732afcf49e3da2968ae3f43d"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/combat_context.lua",
+      "length": 5712,
+      "sha256": "c08bbb5ad4e1a08f0bba39170dc928ac234386b6eb28b97b44ec7a24a181bb01"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/core.lua",
+      "length": 23753,
+      "sha256": "05b474dfd18ba16d6d64aa1b831db1d3eb8a08081f5e200b2ad58e73248ff372"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/driver_execution.lua",
+      "length": 38422,
+      "sha256": "141e1c718754733f136a65605b0cdd78cb9deff94d381a0f324ca0c94d3e9c2b"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/driver_execution_guard.lua",
+      "length": 2757,
+      "sha256": "806fa6feaf3c0e3d8c6f940f2375573a498716f7f0aa02455fed4cfbea422d7f"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/driver_execution_layout.lua",
+      "length": 1727,
+      "sha256": "9f4585ef8df34f0862f8a357985019787d90021c403c4cd9f9d555d35a1dcb60"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/driver_hunt.lua",
+      "length": 38570,
+      "sha256": "f0f1aed1f4296bdbc82ecc3bbd8f235ef985cffb064980941e8f944bf83c0d08"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/driver_rescue.lua",
+      "length": 23820,
+      "sha256": "c984991be2177f765efe13dded245bcbfb73aa4c74d8a8ed0367baa9850498ed"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/extra.lua",
+      "length": 12973,
+      "sha256": "801f5d409de574d412788dde4995d4a55a0306c63ea3d9ea64a44199b4f61d07"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/foreign_ui.lua",
+      "length": 21457,
+      "sha256": "83ed6e65eefed7d26d5cbfc7cee401d9ba650013988a10e50ac7bc55f8717b42"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/formicarium_trainer.lua",
+      "length": 18007,
+      "sha256": "b60305386e007bf36e4a359703e72aa1bc4a69f2072e0945f908cfc42eea7db3"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/groups.lua",
+      "length": 17226,
+      "sha256": "1234a33e3382b8e5c67057ae3657652b2dbfb1d6fca98f9a2651c20992eb6b3d"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_animation.lua",
+      "length": 4938,
+      "sha256": "9a41a00af3231d0c076c7058d598ae07b3a424825ee8e886807f783475638d24"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_forms.lua",
+      "length": 11325,
+      "sha256": "405a0f2011cceaba099da10fac9bc61a938f93829e64c5ea36b27da818162910"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_native.lua",
+      "length": 19486,
+      "sha256": "ef5046cf68b86c7b360f280f21b0ba4ca7899554d54279e27a318aafd14a71dd"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_runtime.lua",
+      "length": 50403,
+      "sha256": "1718d7d7a92ea00a18af050d956971ed15d60a543ef5434a71e8356266c3a9e4"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_sizes.lua",
+      "length": 7846,
+      "sha256": "7833e2ec86baae88379c1b339117b0b652900dda7ab8a481fc8f406043fb397d"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_twin_bond.lua",
+      "length": 12782,
+      "sha256": "874b27164e2a9c5e8f7b382774c7ab9475f8405761ca554b55d87ad8d26776c8"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_twin_cost.lua",
+      "length": 13828,
+      "sha256": "d8c206fe56ac7158681939497a2976d74b6ba8bf72ab8eae4167d92b376641f5"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/littleblack_twins.lua",
+      "length": 23628,
+      "sha256": "471cf40dedab980933ee9a9a38a1e7da18819afa73bdd7719e6114b168ccafc8"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/main.lua",
+      "length": 104399,
+      "sha256": "5f361d6f9db6783cad431f381ace4acbcd4a61483db9a018657647890fa7b706"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/main_menu_notice.lua",
+      "length": 189,
+      "sha256": "519bcbce0d01b3d8bd6e98a10f27535e7043a6604b118ade02b6d2c8ebcc3dd5"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/mode_skills.lua",
+      "length": 28950,
+      "sha256": "ea1eeb39312581efbe8fdefdf0d6b2684b07ec198ab5d743e71a1320f5117dc0"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/native.lua",
+      "length": 26679,
+      "sha256": "a2d322b41a311e9ac9848c9ce8916109a92432a14c77fcf0e553194601bb7257"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/notice_content.lua",
+      "length": 23589,
+      "sha256": "6de368f4b2452d1ad31785da80c021e6a9b73c624e102c2ce578a6417543505f"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/notice_journal.lua",
+      "length": 9489,
+      "sha256": "4aabce0b80886530003281774306b9413258a017eec04d89fd16f50971752fc4"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/notice_journal_ui.lua",
+      "length": 20499,
+      "sha256": "ab87e9cd27b5ab8d0362f88d87aa1134f8b6c5dac510dc4e8d396ac08c1e761e"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/player_notices.lua",
+      "length": 2951,
+      "sha256": "e5e338f71d87904e6800531b9aed352ac82b52bd81fd4fe7c87b7eb4382f4fc6"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/roster.lua",
+      "length": 35609,
+      "sha256": "4a0b8357236989e14528e83a728de1a391d86a3177a2212e51aab3e5d84412b9"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/roster_catalog.lua",
+      "length": 9354,
+      "sha256": "f892325e554bfb083d428bfee783b6e044796810627e298a049c2e5da05c3c30"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/roster_challenge.lua",
+      "length": 14227,
+      "sha256": "6871f8a4bd1bd63363eab0aa24fc167c4add82e10ede6b70f80d95151caea962"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/roster_home.lua",
+      "length": 12161,
+      "sha256": "9fc3aaf00ac6e8b0c641a35db16be4e9736157fefd7749156483ec8d3395e55d"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/roster_runtime.lua",
+      "length": 27638,
+      "sha256": "4e380cb835ddc1b027df5805003bf46a6c2cc91ea846f51e17e972b7e1342f71"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/roster_state.lua",
+      "length": 16902,
+      "sha256": "9f76c174d608e8d2cfebaf0dd9b1de4ffb5ef1031a703122c1573fda2ea284a2"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/roster_ui.lua",
+      "length": 37540,
+      "sha256": "246811d14e1280acc1dcf31baf2fbd315930fffda24d2bac3c4f23ff29c98d20"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/sha256.lua",
+      "length": 2241,
+      "sha256": "ce72e83852f8b721a213561f2ad14ce0b3cba4cf2d2847d1672c4d9578f77b91"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/skills.lua",
+      "length": 11579,
+      "sha256": "dcfb4ae7ee4a6e322d4c56c5c0c86d6c6ed887f73447e7f70eb564c151c4aab6"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/skills_purchase.lua",
+      "length": 16898,
+      "sha256": "ef6c563d99c61cadd3470c22377f85a35fdb85c2fef5c65cc713517ec94eff45"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/skills_runtime.lua",
+      "length": 42214,
+      "sha256": "11c505f1e3883cb7577939ed418ea960e9be142044611d99c7951e6de99ad6af"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/skills_state.lua",
+      "length": 9998,
+      "sha256": "131f3387934e01a850c3f611844f708f4bf3d6ef2738ac7ab997d0d8f54a99d0"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/skills_ui.lua",
+      "length": 57625,
+      "sha256": "d58cec5e0018e554b29618468e377631fabcb21080d83ccf90d2069033a8295d"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_balance.lua",
+      "length": 13730,
+      "sha256": "ec0b414b07a2c48a6be19cb3f7e9a4f2661b6a0a20741e1ade9303b4b427cd59"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_controls_ui.lua",
+      "length": 23826,
+      "sha256": "ab88dbf58d863b3fbe94e4b0df5ee449e7382a984f548d0c44f81056109e5e7e"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_conversion.lua",
+      "length": 35950,
+      "sha256": "0c2655f146120311aa654e550c9ff80e0ebefb8c14fb8d3c01420f939b89cf7f"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_conversion_animation.lua",
+      "length": 29103,
+      "sha256": "33a3e566f37251d883c9f662a54b6bf16c0bbc96c3d5804776818d1dc0cd2ec4"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_damage_guard.lua",
+      "length": 5868,
+      "sha256": "9b2bc5260f31b5710da2c0a9aaf741313a66c41125e4b46d258be4629e00da2c"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_food.lua",
+      "length": 24163,
+      "sha256": "c96cb8bed51e12217be24da06c3c1476e5794fb9670190de8eb96c93b4855b0c"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_medical.lua",
+      "length": 14431,
+      "sha256": "f8429363c155e26a62c158a2dddb7b60be2e245b05b81817f96eb64d6e7e762c"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_native.lua",
+      "length": 58273,
+      "sha256": "1c476784d7d9c7dad7c9b71792cdb869b4e6e13a0269319827b3c7e35e4c1b0f"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_objectives.lua",
+      "length": 7996,
+      "sha256": "3910b7e690741cdc77d4cbe1d9214ec72557b20b0a36e39dfc47f5c0869d00f1"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/slaver_runtime.lua",
+      "length": 38201,
+      "sha256": "62b4f7cba0298e38439cadcd4b79e996615dccfce5c99dd8464ba63577266397"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/trainer_settings.lua",
+      "length": 7692,
+      "sha256": "cc9c6271a690165702ffee16eb0b9cf32508c3b4ea8e72152ac58116a0e4f6b7"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/trapjaw_animation.lua",
+      "length": 7626,
+      "sha256": "179e53a7125d2d52d4065045deb37845549c09557ab9157574b78c2ed3ae7778"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/trapjaw_balance.lua",
+      "length": 3128,
+      "sha256": "bbe80492d32db037e21a85d796c3e581e014e30ff5b976221dca629967e69173"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/ui.lua",
+      "length": 67099,
+      "sha256": "f22f8a97526c3f596c15a97540cb1aa24dc744648f1d70020bbe9aa449a1344d"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/unicode_fs.lua",
+      "length": 3072,
+      "sha256": "bc7779b42d0e204af34cc067790e05cfbbc938b42ff5ac635e85c46ba9c7b2e3"
+    },
+    {
+      "path": "mod-source/AllAttributes/Scripts/wound_visuals.lua",
+      "length": 3792,
+      "sha256": "cb3411d78338569ef89e9968045aeea88d5fdbf4dd22f6d8479add25afd6d45d"
+    },
+    {
+      "path": "patch-source/ue4ss-blueprint-prefilter/build.py",
+      "length": 8941,
+      "sha256": "194081f69314c0e78e014dfcc9cdee53f1d7929867634cf37836f5942586342d"
+    },
+    {
+      "path": "patch-source/ue4ss-blueprint-prefilter/prefilter.s",
+      "length": 739,
+      "sha256": "3de14f1993173b3274c80e3f659914ef5998d6ad3eb95373a66405e0af93b8a5"
+    },
+    {
+      "path": "patch-source/ue4ss-blueprint-prefilter/provenance.json",
+      "length": 1598,
+      "sha256": "79392803b0281f4e4fba82f49eaeb8195ea55f1abe32c98f52940071949f3ecb"
+    },
+    {
+      "path": "patch-source/ue4ss-blueprint-prefilter/README.md",
+      "length": 3695,
+      "sha256": "4bc6e70477205cbb82c088715379376c9a828ba547996193a78d3872ad8778cb"
+    },
+    {
+      "path": "README.md",
+      "length": 6009,
+      "sha256": "d4242463bc30e315e3aa132208f728a0ba7fc941d8831d6c6dc22925163ea527"
+    },
+    {
+      "path": "release-manifest.json",
+      "length": 46128,
+      "sha256": "3711f71627411ce6e0d8c90848d8d646cd2d3cacecee2b7bbc4541b3b3ebf58f"
+    },
+    {
+      "path": "third-party/UE4SS-LICENSE.txt",
+      "length": 1085,
+      "sha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e"
+    },
+    {
+      "path": "ThirdPartyNotices.txt",
+      "length": 3578,
+      "sha256": "376c0b1103a306d1849e37df9de261846391a1b57ddcfbab66288215c1a9048c"
+    },
+    {
+      "path": "tools/build-assets-pak.py",
+      "length": 2254,
+      "sha256": "f81dfe7dc901c0fc7c9d97dbcc0f72525028f47e6fc719a9e0cf1bd48566c96f"
+    },
+    {
+      "path": "tools/stage-runtime-input.py",
+      "length": 1403,
+      "sha256": "a70b88022c128dfa40398d6bae1276618bc46d50fa743c2fcd28ec6fc8ab71ea"
+    },
+    {
+      "path": "tools/verify-source-package.py",
+      "length": 713,
+      "sha256": "b743f6f4fd010c5aed1414a9441c3407188b794f37c1fa947e9351d3616eccb3"
+    },
+    {
+      "path": "verification-scope.json",
+      "length": 1654,
+      "sha256": "84fbda81c16c9b3335a1bf9d2c5d42e932fa4f16516fcad82dd84b90abf001fe"
+    }
+  ]
+}

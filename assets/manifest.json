@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "pakName": "AntOverhaul_P.pak",
+  "pakVersion": 3,
+  "mountPoint": "../../../",
+  "compression": "none",
+  "encryption": false,
+  "expectedPakSha256": "8a16803ad152c46c0b2c213c708beff59c0a5223800e2821d84d8ca00b5d3e62",
+  "files": [
+    {
+      "path": "EotU/Content/EAA/DriverExecutionContinuousDashV7.uasset",
+      "length": 1520,
+      "sha256": "ef9c82dffb166cb8763ffd60528011e628f965829a658e8a79f360e27499ceb8"
+    },
+    {
+      "path": "EotU/Content/EAA/DriverExecutionContinuousDashV7.uexp",
+      "length": 127283,
+      "sha256": "4f53e3c68deb8428bcf302db71298a3268ed3a59476143e78ef552ceafdc3d2a"
+    },
+    {
+      "path": "EotU/Content/EAA/DriverExecutionContinuousHoldV9.uasset",
+      "length": 2469,
+      "sha256": "0781a5a783729a3a077c931036d8acc81b04b11476f6ee5c2db11112906e6bd0"
+    },
+    {
+      "path": "EotU/Content/EAA/DriverExecutionContinuousHoldV9.uexp",
+      "length": 113747,
+      "sha256": "b2e9a3974e6609cd62b96a1bd1b958b4cab3dcc8758636e7248c2bb89ad80806"
+    },
+    {
+      "path": "EotU/Content/EAA/ExecutionDriverAnimBP.uasset",
+      "length": 23593,
+      "sha256": "bc3b871fed197fe3e801890c15b12941bc968c6f723aa03e03286de55c33250c"
+    },
+    {
+      "path": "EotU/Content/EAA/ExecutionDriverAnimBP.uexp",
+      "length": 74109,
+      "sha256": "53d0de0dfe93685ef059c854588292e11cbbe699c8a32dcf6e918e4446d0cf4e"
+    },
+    {
+      "path": "EotU/Content/EAA/ExecutionDriverMediumAnimBP.uasset",
+      "length": 3837,
+      "sha256": "e5d22ede6da34e60f647c641ba49cf64b59dc7e9e5093e410ef581ecc5fa6457"
+    },
+    {
+      "path": "EotU/Content/EAA/ExecutionDriverMediumAnimBP.uexp",
+      "length": 1182,
+      "sha256": "3e426dbea1588d4bd2f539b3170d8bec261464ddd5bd32afb4b65f8583a4d679"
+    },
+    {
+      "path": "EotU/Content/EAA/ExecutionPreyRestrainedV8.uasset",
+      "length": 1499,
+      "sha256": "dadf5a5a319953b6029d529bc98453e6458255f59bbc85f23cab1c8fd7e30fca"
+    },
+    {
+      "path": "EotU/Content/EAA/ExecutionPreyRestrainedV8.uexp",
+      "length": 104412,
+      "sha256": "227eb6b6321db33f62e84d9ea354d9e3fbca28c1baae835621cf6b56aa80dbb7"
+    },
+    {
+      "path": "EotU/Content/EAA/RendBloodV1.uasset",
+      "length": 8349,
+      "sha256": "8996d7e08d75bb478c7a87602b69fbe7dd8f135025b1a839311bda4ccc55912a"
+    },
+    {
+      "path": "EotU/Content/EAA/RendBloodV1.uexp",
+      "length": 15037,
+      "sha256": "8c1e2fcff4405710b9fe503d6a318c1dd45abd5e0506632dc64a6d8dc6962fbd"
+    },
+    {
+      "path": "EotU/Content/EAA/TrapjawFireAntStingV1.uasset",
+      "length": 2445,
+      "sha256": "d0820e0df4be8cb7491e9f8f1ce6b81352e839954decb6c783ce5b2fe068f397"
+    },
+    {
+      "path": "EotU/Content/EAA/TrapjawFireAntStingV1.uexp",
+      "length": 13669,
+      "sha256": "6266f8cbcfa35513b51b8ab0ba90c7f3f4579a4c2a0244eebfa367660ff58a33"
+    }
+  ]
+}

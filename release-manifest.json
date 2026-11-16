@@ -1,0 +1,1049 @@
+{
+  "schema": 1,
+  "release": "0.2.0",
+  "modId": "EotU.AllAttributes.v1",
+  "appId": "463530",
+  "buildId": "26412732",
+  "gameVersion": "1.2.1.1.0.5",
+  "files": [
+    {
+      "path": "EotU/Binaries/Win64/dwmapi.dll",
+      "length": 279552,
+      "sha256": "f8bec398fcbb2e3e8d1ef2875cafcc15d09f82073402fc9879a9cbf78b8d9514"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/LICENSE",
+      "length": 1085,
+      "sha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/combat_context.lua",
+      "length": 5712,
+      "sha256": "c08bbb5ad4e1a08f0bba39170dc928ac234386b6eb28b97b44ec7a24a181bb01"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/core.lua",
+      "length": 23753,
+      "sha256": "05b474dfd18ba16d6d64aa1b831db1d3eb8a08081f5e200b2ad58e73248ff372"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_execution.lua",
+      "length": 38422,
+      "sha256": "141e1c718754733f136a65605b0cdd78cb9deff94d381a0f324ca0c94d3e9c2b"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_execution_guard.lua",
+      "length": 2757,
+      "sha256": "806fa6feaf3c0e3d8c6f940f2375573a498716f7f0aa02455fed4cfbea422d7f"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_execution_layout.lua",
+      "length": 1727,
+      "sha256": "9f4585ef8df34f0862f8a357985019787d90021c403c4cd9f9d555d35a1dcb60"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_hunt.lua",
+      "length": 38570,
+      "sha256": "f0f1aed1f4296bdbc82ecc3bbd8f235ef985cffb064980941e8f944bf83c0d08"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_rescue.lua",
+      "length": 23820,
+      "sha256": "c984991be2177f765efe13dded245bcbfb73aa4c74d8a8ed0367baa9850498ed"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/extra.lua",
+      "length": 12973,
+      "sha256": "801f5d409de574d412788dde4995d4a55a0306c63ea3d9ea64a44199b4f61d07"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/foreign_ui.lua",
+      "length": 21457,
+      "sha256": "83ed6e65eefed7d26d5cbfc7cee401d9ba650013988a10e50ac7bc55f8717b42"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/formicarium_trainer.lua",
+      "length": 18007,
+      "sha256": "b60305386e007bf36e4a359703e72aa1bc4a69f2072e0945f908cfc42eea7db3"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/groups.lua",
+      "length": 17226,
+      "sha256": "1234a33e3382b8e5c67057ae3657652b2dbfb1d6fca98f9a2651c20992eb6b3d"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_animation.lua",
+      "length": 4938,
+      "sha256": "9a41a00af3231d0c076c7058d598ae07b3a424825ee8e886807f783475638d24"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_forms.lua",
+      "length": 11325,
+      "sha256": "405a0f2011cceaba099da10fac9bc61a938f93829e64c5ea36b27da818162910"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_native.lua",
+      "length": 19486,
+      "sha256": "ef5046cf68b86c7b360f280f21b0ba4ca7899554d54279e27a318aafd14a71dd"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_runtime.lua",
+      "length": 50403,
+      "sha256": "1718d7d7a92ea00a18af050d956971ed15d60a543ef5434a71e8356266c3a9e4"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_sizes.lua",
+      "length": 7846,
+      "sha256": "7833e2ec86baae88379c1b339117b0b652900dda7ab8a481fc8f406043fb397d"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_twin_bond.lua",
+      "length": 12782,
+      "sha256": "874b27164e2a9c5e8f7b382774c7ab9475f8405761ca554b55d87ad8d26776c8"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_twin_cost.lua",
+      "length": 13828,
+      "sha256": "d8c206fe56ac7158681939497a2976d74b6ba8bf72ab8eae4167d92b376641f5"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_twins.lua",
+      "length": 23628,
+      "sha256": "471cf40dedab980933ee9a9a38a1e7da18819afa73bdd7719e6114b168ccafc8"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/main.lua",
+      "length": 104399,
+      "sha256": "5f361d6f9db6783cad431f381ace4acbcd4a61483db9a018657647890fa7b706"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/main_menu_notice.lua",
+      "length": 189,
+      "sha256": "519bcbce0d01b3d8bd6e98a10f27535e7043a6604b118ade02b6d2c8ebcc3dd5"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/mode_skills.lua",
+      "length": 28950,
+      "sha256": "ea1eeb39312581efbe8fdefdf0d6b2684b07ec198ab5d743e71a1320f5117dc0"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/native.lua",
+      "length": 26679,
+      "sha256": "a2d322b41a311e9ac9848c9ce8916109a92432a14c77fcf0e553194601bb7257"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/notice_content.lua",
+      "length": 23589,
+      "sha256": "6de368f4b2452d1ad31785da80c021e6a9b73c624e102c2ce578a6417543505f"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/notice_journal.lua",
+      "length": 9489,
+      "sha256": "4aabce0b80886530003281774306b9413258a017eec04d89fd16f50971752fc4"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/notice_journal_ui.lua",
+      "length": 20499,
+      "sha256": "ab87e9cd27b5ab8d0362f88d87aa1134f8b6c5dac510dc4e8d396ac08c1e761e"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/player_notices.lua",
+      "length": 2951,
+      "sha256": "e5e338f71d87904e6800531b9aed352ac82b52bd81fd4fe7c87b7eb4382f4fc6"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster.lua",
+      "length": 35609,
+      "sha256": "4a0b8357236989e14528e83a728de1a391d86a3177a2212e51aab3e5d84412b9"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_catalog.lua",
+      "length": 9354,
+      "sha256": "f892325e554bfb083d428bfee783b6e044796810627e298a049c2e5da05c3c30"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_challenge.lua",
+      "length": 14227,
+      "sha256": "6871f8a4bd1bd63363eab0aa24fc167c4add82e10ede6b70f80d95151caea962"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_home.lua",
+      "length": 12161,
+      "sha256": "9fc3aaf00ac6e8b0c641a35db16be4e9736157fefd7749156483ec8d3395e55d"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_runtime.lua",
+      "length": 27638,
+      "sha256": "4e380cb835ddc1b027df5805003bf46a6c2cc91ea846f51e17e972b7e1342f71"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_state.lua",
+      "length": 16902,
+      "sha256": "9f76c174d608e8d2cfebaf0dd9b1de4ffb5ef1031a703122c1573fda2ea284a2"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_ui.lua",
+      "length": 37540,
+      "sha256": "246811d14e1280acc1dcf31baf2fbd315930fffda24d2bac3c4f23ff29c98d20"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/sha256.lua",
+      "length": 2241,
+      "sha256": "ce72e83852f8b721a213561f2ad14ce0b3cba4cf2d2847d1672c4d9578f77b91"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills.lua",
+      "length": 11579,
+      "sha256": "dcfb4ae7ee4a6e322d4c56c5c0c86d6c6ed887f73447e7f70eb564c151c4aab6"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_purchase.lua",
+      "length": 16898,
+      "sha256": "ef6c563d99c61cadd3470c22377f85a35fdb85c2fef5c65cc713517ec94eff45"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_runtime.lua",
+      "length": 42214,
+      "sha256": "11c505f1e3883cb7577939ed418ea960e9be142044611d99c7951e6de99ad6af"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_state.lua",
+      "length": 9998,
+      "sha256": "131f3387934e01a850c3f611844f708f4bf3d6ef2738ac7ab997d0d8f54a99d0"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_ui.lua",
+      "length": 57625,
+      "sha256": "d58cec5e0018e554b29618468e377631fabcb21080d83ccf90d2069033a8295d"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_balance.lua",
+      "length": 13730,
+      "sha256": "ec0b414b07a2c48a6be19cb3f7e9a4f2661b6a0a20741e1ade9303b4b427cd59"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_controls_ui.lua",
+      "length": 23826,
+      "sha256": "ab88dbf58d863b3fbe94e4b0df5ee449e7382a984f548d0c44f81056109e5e7e"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_conversion.lua",
+      "length": 35950,
+      "sha256": "0c2655f146120311aa654e550c9ff80e0ebefb8c14fb8d3c01420f939b89cf7f"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_conversion_animation.lua",
+      "length": 29103,
+      "sha256": "33a3e566f37251d883c9f662a54b6bf16c0bbc96c3d5804776818d1dc0cd2ec4"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_damage_guard.lua",
+      "length": 5868,
+      "sha256": "9b2bc5260f31b5710da2c0a9aaf741313a66c41125e4b46d258be4629e00da2c"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_food.lua",
+      "length": 24163,
+      "sha256": "c96cb8bed51e12217be24da06c3c1476e5794fb9670190de8eb96c93b4855b0c"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_medical.lua",
+      "length": 14431,
+      "sha256": "f8429363c155e26a62c158a2dddb7b60be2e245b05b81817f96eb64d6e7e762c"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_native.lua",
+      "length": 58273,
+      "sha256": "1c476784d7d9c7dad7c9b71792cdb869b4e6e13a0269319827b3c7e35e4c1b0f"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_objectives.lua",
+      "length": 7996,
+      "sha256": "3910b7e690741cdc77d4cbe1d9214ec72557b20b0a36e39dfc47f5c0869d00f1"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_runtime.lua",
+      "length": 38201,
+      "sha256": "62b4f7cba0298e38439cadcd4b79e996615dccfce5c99dd8464ba63577266397"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/trainer_settings.lua",
+      "length": 7692,
+      "sha256": "cc9c6271a690165702ffee16eb0b9cf32508c3b4ea8e72152ac58116a0e4f6b7"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/trapjaw_animation.lua",
+      "length": 7626,
+      "sha256": "179e53a7125d2d52d4065045deb37845549c09557ab9157574b78c2ed3ae7778"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/trapjaw_balance.lua",
+      "length": 3128,
+      "sha256": "bbe80492d32db037e21a85d796c3e581e014e30ff5b976221dca629967e69173"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/ui.lua",
+      "length": 67099,
+      "sha256": "f22f8a97526c3f596c15a97540cb1aa24dc744648f1d70020bbe9aa449a1344d"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/unicode_fs.lua",
+      "length": 3072,
+      "sha256": "bc7779b42d0e204af34cc067790e05cfbbc938b42ff5ac635e85c46ba9c7b2e3"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/wound_visuals.lua",
+      "length": 3792,
+      "sha256": "cb3411d78338569ef89e9968045aeea88d5fdbf4dd22f6d8479add25afd6d45d"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Textures/EAA_PinStatus.png",
+      "length": 825079,
+      "sha256": "51b3e809056ada71631189d4efe3939cfdf8b6df2080505a2b8d8d8ed5d4d8a5"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/Mods/mods.txt",
+      "length": 19,
+      "sha256": "d4949abd72cbe73c584e0e24f178f6668db89966ee9d28ada751a6ca8744ef05"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/UE4SS-settings.ini",
+      "length": 9558,
+      "sha256": "c17508a7e2b186ddc91847823a040a8d6087dfa7ad89c4e42b21c2c926da4f39"
+    },
+    {
+      "path": "EotU/Binaries/Win64/ue4ss/UE4SS.dll",
+      "length": 20641280,
+      "sha256": "46c90c1a89a778da039f397681c4f6b34cb046d6e8c81f5881c09f5515685c9d"
+    },
+    {
+      "path": "EotU/Content/Movies/EAA_LittleBlackSpecialist.mp4",
+      "length": 1100505,
+      "sha256": "7f5405024b193f99945c6a8033d3cad2e9540994e0e2ea9565a0600a71f398cd"
+    },
+    {
+      "path": "EotU/Content/Movies/EAA_LittleBlackSpecialist.png",
+      "length": 732777,
+      "sha256": "0c18745dae798b993a28eec37f70c32ceaa2b4df5a4a930fb4d37a063ee55bf4"
+    },
+    {
+      "path": "EotU/Content/Movies/EAA_LittleBlackTwin.mp4",
+      "length": 593909,
+      "sha256": "27f043cc02b664be7a012d2be99e5b0989dd9ec92e775418b7968be000a19e62"
+    },
+    {
+      "path": "EotU/Content/Movies/EAA_LittleBlackTwin.png",
+      "length": 685678,
+      "sha256": "e1e6437151fbef6ec53edee7a9ac46acf16664caf6d6fecf6b621532ce68c052"
+    },
+    {
+      "path": "EotU/Content/Paks/AntOverhaul_P.pak",
+      "length": 495423,
+      "sha256": "8a16803ad152c46c0b2c213c708beff59c0a5223800e2821d84d8ca00b5d3e62"
+    }
+  ],
+  "gameChecks": [
+    {
+      "path": "EotU.exe",
+      "sha256": "ca71595668025a0bfe9f8681334bc03ad3ab46eef6bcb6517221dc82f91474e6"
+    },
+    {
+      "path": "EotU/Binaries/Win64/EotU-Win64-Shipping.exe",
+      "sha256": "7731d0661dfa0db52f184795871abff468df108dee38302000413fff28eb27fc"
+    },
+    {
+      "path": "EotU/Content/Paks/pakchunk0-WindowsNoEditor.pak",
+      "sha256": "b65394b5f9eaf9d6a4fff432d3442e60f887317ab0471f93f047ec274d3a7a01"
+    }
+  ],
+  "loaderVersion": "v3.0.1-1183-gcdbc0b66 + blueprint-name-prefilter",
+  "loaderArchiveSha256": "2b634e7e1446b360599c01419d8ca14823a5138fa7fdf8f7fc28a50a13054908",
+  "loaderSource": "https://github.com/UE4SS-RE/RE-UE4SS/releases/download/experimental/zDEV-UE4SS_v3.0.1-1183-gcdbc0b66.zip",
+  "loaderPatched": true,
+  "officialLoaderDllSha256": "c273e7228687b647226fd63d7ca65888d313ece6be18996ec1320d00a5efe1f8",
+  "patchedLoaderDllSha256": "46c90c1a89a778da039f397681c4f6b34cb046d6e8c81f5881c09f5515685c9d",
+  "retiredFiles": [
+    {
+      "path": "EotU/Content/Paks/EAA_DriverExecution_P.pak",
+      "length": 455323,
+      "sha256": "ea79008fac892574a4efb02ed65c97c37b098f9537d98a46cc0e3593a6496247"
+    },
+    {
+      "path": "EotU/Content/Paks/EAA_RendBlood_P.pak",
+      "length": 23738,
+      "sha256": "68109a0ab0f3ce9655bf1dd84773f0bd0e3ca3fe6837192d97fc856477093be1"
+    },
+    {
+      "path": "EotU/Content/Paks/EAA_TrapjawSting_P.pak",
+      "length": 16486,
+      "sha256": "ef3f4c6a5f64572ff5010c6af9d9d89b2ce5e04c362f4857592151b572dc45c1"
+    }
+  ],
+  "format": "hybrid-real-pak-and-ue4ss",
+  "state": "frozen",
+  "payloadRoot": "build/runtime-payload",
+  "baselines": [
+    {
+      "id": "local-hotfix-20261116",
+      "manifest": {
+        "schema": 1,
+        "modId": "EotU.AllAttributes.v1",
+        "release": "0.1.17",
+        "buildId": "26412732",
+        "gameVersion": "1.2.1.1.0.5",
+        "files": [
+          {
+            "path": "EotU/Binaries/Win64/dwmapi.dll",
+            "length": 279552,
+            "sha256": "f8bec398fcbb2e3e8d1ef2875cafcc15d09f82073402fc9879a9cbf78b8d9514"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/LICENSE",
+            "length": 1085,
+            "sha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/combat_context.lua",
+            "length": 5712,
+            "sha256": "c08bbb5ad4e1a08f0bba39170dc928ac234386b6eb28b97b44ec7a24a181bb01"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/core.lua",
+            "length": 23753,
+            "sha256": "05b474dfd18ba16d6d64aa1b831db1d3eb8a08081f5e200b2ad58e73248ff372"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_execution.lua",
+            "length": 38422,
+            "sha256": "141e1c718754733f136a65605b0cdd78cb9deff94d381a0f324ca0c94d3e9c2b"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_execution_guard.lua",
+            "length": 2757,
+            "sha256": "806fa6feaf3c0e3d8c6f940f2375573a498716f7f0aa02455fed4cfbea422d7f"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_execution_layout.lua",
+            "length": 1727,
+            "sha256": "9f4585ef8df34f0862f8a357985019787d90021c403c4cd9f9d555d35a1dcb60"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_hunt.lua",
+            "length": 38570,
+            "sha256": "f0f1aed1f4296bdbc82ecc3bbd8f235ef985cffb064980941e8f944bf83c0d08"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/driver_rescue.lua",
+            "length": 23820,
+            "sha256": "c984991be2177f765efe13dded245bcbfb73aa4c74d8a8ed0367baa9850498ed"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/extra.lua",
+            "length": 12973,
+            "sha256": "801f5d409de574d412788dde4995d4a55a0306c63ea3d9ea64a44199b4f61d07"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/foreign_ui.lua",
+            "length": 21457,
+            "sha256": "83ed6e65eefed7d26d5cbfc7cee401d9ba650013988a10e50ac7bc55f8717b42"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/formicarium_trainer.lua",
+            "length": 18007,
+            "sha256": "b60305386e007bf36e4a359703e72aa1bc4a69f2072e0945f908cfc42eea7db3"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/groups.lua",
+            "length": 17226,
+            "sha256": "1234a33e3382b8e5c67057ae3657652b2dbfb1d6fca98f9a2651c20992eb6b3d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_animation.lua",
+            "length": 4938,
+            "sha256": "9a41a00af3231d0c076c7058d598ae07b3a424825ee8e886807f783475638d24"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_forms.lua",
+            "length": 11325,
+            "sha256": "405a0f2011cceaba099da10fac9bc61a938f93829e64c5ea36b27da818162910"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_native.lua",
+            "length": 19486,
+            "sha256": "ef5046cf68b86c7b360f280f21b0ba4ca7899554d54279e27a318aafd14a71dd"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_runtime.lua",
+            "length": 50403,
+            "sha256": "1718d7d7a92ea00a18af050d956971ed15d60a543ef5434a71e8356266c3a9e4"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_sizes.lua",
+            "length": 7846,
+            "sha256": "7833e2ec86baae88379c1b339117b0b652900dda7ab8a481fc8f406043fb397d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_twin_bond.lua",
+            "length": 12782,
+            "sha256": "874b27164e2a9c5e8f7b382774c7ab9475f8405761ca554b55d87ad8d26776c8"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_twin_cost.lua",
+            "length": 13828,
+            "sha256": "d8c206fe56ac7158681939497a2976d74b6ba8bf72ab8eae4167d92b376641f5"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/littleblack_twins.lua",
+            "length": 23628,
+            "sha256": "471cf40dedab980933ee9a9a38a1e7da18819afa73bdd7719e6114b168ccafc8"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/main.lua",
+            "length": 104400,
+            "sha256": "46cd9e9dcdb4c0e2b1ebe3167867b6279f31ff784306da8aab6e6b5f667bda34"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/main_menu_notice.lua",
+            "length": 189,
+            "sha256": "519bcbce0d01b3d8bd6e98a10f27535e7043a6604b118ade02b6d2c8ebcc3dd5"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/mode_skills.lua",
+            "length": 28950,
+            "sha256": "ea1eeb39312581efbe8fdefdf0d6b2684b07ec198ab5d743e71a1320f5117dc0"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/native.lua",
+            "length": 26679,
+            "sha256": "a2d322b41a311e9ac9848c9ce8916109a92432a14c77fcf0e553194601bb7257"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/notice_content.lua",
+            "length": 22949,
+            "sha256": "525ad07b6f592d0908d6d7d2f559723a3870533c8d88e609c23d1cff770a3778"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/notice_journal.lua",
+            "length": 9489,
+            "sha256": "4aabce0b80886530003281774306b9413258a017eec04d89fd16f50971752fc4"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/notice_journal_ui.lua",
+            "length": 20499,
+            "sha256": "ab87e9cd27b5ab8d0362f88d87aa1134f8b6c5dac510dc4e8d396ac08c1e761e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/player_notices.lua",
+            "length": 2951,
+            "sha256": "e5e338f71d87904e6800531b9aed352ac82b52bd81fd4fe7c87b7eb4382f4fc6"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster.lua",
+            "length": 35609,
+            "sha256": "4a0b8357236989e14528e83a728de1a391d86a3177a2212e51aab3e5d84412b9"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_catalog.lua",
+            "length": 9354,
+            "sha256": "f892325e554bfb083d428bfee783b6e044796810627e298a049c2e5da05c3c30"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_challenge.lua",
+            "length": 14227,
+            "sha256": "6871f8a4bd1bd63363eab0aa24fc167c4add82e10ede6b70f80d95151caea962"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_home.lua",
+            "length": 12161,
+            "sha256": "9fc3aaf00ac6e8b0c641a35db16be4e9736157fefd7749156483ec8d3395e55d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_runtime.lua",
+            "length": 27638,
+            "sha256": "4e380cb835ddc1b027df5805003bf46a6c2cc91ea846f51e17e972b7e1342f71"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_state.lua",
+            "length": 16902,
+            "sha256": "9f76c174d608e8d2cfebaf0dd9b1de4ffb5ef1031a703122c1573fda2ea284a2"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_ui.lua",
+            "length": 37540,
+            "sha256": "246811d14e1280acc1dcf31baf2fbd315930fffda24d2bac3c4f23ff29c98d20"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/sha256.lua",
+            "length": 2241,
+            "sha256": "ce72e83852f8b721a213561f2ad14ce0b3cba4cf2d2847d1672c4d9578f77b91"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills.lua",
+            "length": 11579,
+            "sha256": "dcfb4ae7ee4a6e322d4c56c5c0c86d6c6ed887f73447e7f70eb564c151c4aab6"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_purchase.lua",
+            "length": 16898,
+            "sha256": "ef6c563d99c61cadd3470c22377f85a35fdb85c2fef5c65cc713517ec94eff45"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_runtime.lua",
+            "length": 42214,
+            "sha256": "11c505f1e3883cb7577939ed418ea960e9be142044611d99c7951e6de99ad6af"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_state.lua",
+            "length": 9998,
+            "sha256": "131f3387934e01a850c3f611844f708f4bf3d6ef2738ac7ab997d0d8f54a99d0"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_ui.lua",
+            "length": 57625,
+            "sha256": "d58cec5e0018e554b29618468e377631fabcb21080d83ccf90d2069033a8295d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_balance.lua",
+            "length": 13730,
+            "sha256": "ec0b414b07a2c48a6be19cb3f7e9a4f2661b6a0a20741e1ade9303b4b427cd59"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_controls_ui.lua",
+            "length": 23826,
+            "sha256": "ab88dbf58d863b3fbe94e4b0df5ee449e7382a984f548d0c44f81056109e5e7e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_conversion.lua",
+            "length": 35950,
+            "sha256": "0c2655f146120311aa654e550c9ff80e0ebefb8c14fb8d3c01420f939b89cf7f"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_conversion_animation.lua",
+            "length": 29103,
+            "sha256": "33a3e566f37251d883c9f662a54b6bf16c0bbc96c3d5804776818d1dc0cd2ec4"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_damage_guard.lua",
+            "length": 5868,
+            "sha256": "9b2bc5260f31b5710da2c0a9aaf741313a66c41125e4b46d258be4629e00da2c"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_food.lua",
+            "length": 24163,
+            "sha256": "c96cb8bed51e12217be24da06c3c1476e5794fb9670190de8eb96c93b4855b0c"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_medical.lua",
+            "length": 14431,
+            "sha256": "f8429363c155e26a62c158a2dddb7b60be2e245b05b81817f96eb64d6e7e762c"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_native.lua",
+            "length": 58273,
+            "sha256": "1c476784d7d9c7dad7c9b71792cdb869b4e6e13a0269319827b3c7e35e4c1b0f"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_objectives.lua",
+            "sha256": "3910b7e690741cdc77d4cbe1d9214ec72557b20b0a36e39dfc47f5c0869d00f1",
+            "length": 7996
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_runtime.lua",
+            "length": 38201,
+            "sha256": "62b4f7cba0298e38439cadcd4b79e996615dccfce5c99dd8464ba63577266397"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/trainer_settings.lua",
+            "length": 7692,
+            "sha256": "cc9c6271a690165702ffee16eb0b9cf32508c3b4ea8e72152ac58116a0e4f6b7"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/trapjaw_animation.lua",
+            "length": 7626,
+            "sha256": "179e53a7125d2d52d4065045deb37845549c09557ab9157574b78c2ed3ae7778"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/trapjaw_balance.lua",
+            "length": 3128,
+            "sha256": "bbe80492d32db037e21a85d796c3e581e014e30ff5b976221dca629967e69173"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/ui.lua",
+            "length": 67099,
+            "sha256": "f22f8a97526c3f596c15a97540cb1aa24dc744648f1d70020bbe9aa449a1344d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/unicode_fs.lua",
+            "sha256": "bc7779b42d0e204af34cc067790e05cfbbc938b42ff5ac635e85c46ba9c7b2e3",
+            "length": 3072
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/wound_visuals.lua",
+            "length": 3792,
+            "sha256": "cb3411d78338569ef89e9968045aeea88d5fdbf4dd22f6d8479add25afd6d45d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Textures/EAA_PinStatus.png",
+            "length": 825079,
+            "sha256": "51b3e809056ada71631189d4efe3939cfdf8b6df2080505a2b8d8d8ed5d4d8a5"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/mods.txt",
+            "length": 19,
+            "sha256": "d4949abd72cbe73c584e0e24f178f6668db89966ee9d28ada751a6ca8744ef05"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/UE4SS-settings.ini",
+            "length": 9558,
+            "sha256": "c17508a7e2b186ddc91847823a040a8d6087dfa7ad89c4e42b21c2c926da4f39"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/UE4SS.dll",
+            "length": 20641280,
+            "sha256": "46c90c1a89a778da039f397681c4f6b34cb046d6e8c81f5881c09f5515685c9d"
+          },
+          {
+            "path": "EotU/Content/Movies/EAA_LittleBlackSpecialist.mp4",
+            "length": 1100505,
+            "sha256": "7f5405024b193f99945c6a8033d3cad2e9540994e0e2ea9565a0600a71f398cd"
+          },
+          {
+            "path": "EotU/Content/Movies/EAA_LittleBlackSpecialist.png",
+            "length": 732777,
+            "sha256": "0c18745dae798b993a28eec37f70c32ceaa2b4df5a4a930fb4d37a063ee55bf4"
+          },
+          {
+            "path": "EotU/Content/Movies/EAA_LittleBlackTwin.mp4",
+            "length": 593909,
+            "sha256": "27f043cc02b664be7a012d2be99e5b0989dd9ec92e775418b7968be000a19e62"
+          },
+          {
+            "path": "EotU/Content/Movies/EAA_LittleBlackTwin.png",
+            "length": 685678,
+            "sha256": "e1e6437151fbef6ec53edee7a9ac46acf16664caf6d6fecf6b621532ce68c052"
+          },
+          {
+            "path": "EotU/Content/Paks/EAA_DriverExecution_P.pak",
+            "length": 455323,
+            "sha256": "ea79008fac892574a4efb02ed65c97c37b098f9537d98a46cc0e3593a6496247"
+          },
+          {
+            "path": "EotU/Content/Paks/EAA_RendBlood_P.pak",
+            "length": 23738,
+            "sha256": "68109a0ab0f3ce9655bf1dd84773f0bd0e3ca3fe6837192d97fc856477093be1"
+          },
+          {
+            "path": "EotU/Content/Paks/EAA_TrapjawSting_P.pak",
+            "length": 16486,
+            "sha256": "ef3f4c6a5f64572ff5010c6af9d9d89b2ce5e04c362f4857592151b572dc45c1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "public-0.1.13",
+      "manifest": {
+        "schema": 1,
+        "modId": "EotU.AllAttributes.v1",
+        "release": "0.1.13",
+        "buildId": "26119497",
+        "gameVersion": "release-1.2.1.1",
+        "files": [
+          {
+            "path": "EotU/Binaries/Win64/dwmapi.dll",
+            "length": 279552,
+            "sha256": "f8bec398fcbb2e3e8d1ef2875cafcc15d09f82073402fc9879a9cbf78b8d9514"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/LICENSE",
+            "length": 1085,
+            "sha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/UE4SS-settings.ini",
+            "length": 9558,
+            "sha256": "c17508a7e2b186ddc91847823a040a8d6087dfa7ad89c4e42b21c2c926da4f39"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/UE4SS.dll",
+            "length": 20641280,
+            "sha256": "c273e7228687b647226fd63d7ca65888d313ece6be18996ec1320d00a5efe1f8"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/mods.txt",
+            "length": 19,
+            "sha256": "d4949abd72cbe73c584e0e24f178f6668db89966ee9d28ada751a6ca8744ef05"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/core.lua",
+            "length": 23753,
+            "sha256": "05b474dfd18ba16d6d64aa1b831db1d3eb8a08081f5e200b2ad58e73248ff372"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/extra.lua",
+            "length": 11513,
+            "sha256": "7765c3afdfc11529fe2cfd46eeb1bac0f5edc78937e58ec58cc0f9b85d43bb58"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/foreign_ui.lua",
+            "length": 18196,
+            "sha256": "549fd2948480160ec545d13dff946ad529af4bdb2d9ddda0f3ca950694f3cef3"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/groups.lua",
+            "length": 17226,
+            "sha256": "1234a33e3382b8e5c67057ae3657652b2dbfb1d6fca98f9a2651c20992eb6b3d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/main.lua",
+            "length": 53821,
+            "sha256": "93677920292210e30d4ae83b79bdaab7add987106e06117439c8871703b12dbc"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/native.lua",
+            "length": 16727,
+            "sha256": "c4e63834c313d324e5670f97ba1e44113e39e26e0c946e1fa5854039a123b3d8"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_catalog.lua",
+            "length": 9354,
+            "sha256": "f892325e554bfb083d428bfee783b6e044796810627e298a049c2e5da05c3c30"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_challenge.lua",
+            "length": 14227,
+            "sha256": "6871f8a4bd1bd63363eab0aa24fc167c4add82e10ede6b70f80d95151caea962"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_home.lua",
+            "length": 12161,
+            "sha256": "9fc3aaf00ac6e8b0c641a35db16be4e9736157fefd7749156483ec8d3395e55d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_runtime.lua",
+            "length": 27638,
+            "sha256": "4e380cb835ddc1b027df5805003bf46a6c2cc91ea846f51e17e972b7e1342f71"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_state.lua",
+            "length": 13831,
+            "sha256": "7d233b9640f4c568b1bcf342bd082278f31c2deded5b8d3dac756a973d85560b"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_ui.lua",
+            "length": 31883,
+            "sha256": "b48e1856b6fdfe80232c5711063228e000e470f5ecd1c33bd83c1ecaa8a54189"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster.lua",
+            "length": 26761,
+            "sha256": "7586784e16891ac3f7974e420fe9545e813a8a794d54348ad3e1447cf8fc6d2e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/sha256.lua",
+            "length": 1814,
+            "sha256": "340c7e86e204b9b0c2e7a2da09e2835acf5cf7f1ecabef01adee68b837785a14"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/ui.lua",
+            "length": 67578,
+            "sha256": "994bb1bf254ca756aea986de0511406a0b6c9e697c5c0fb11e4d00ea733b8628"
+          }
+        ]
+      }
+    },
+    {
+      "id": "public-0.1.18",
+      "manifest": {
+        "schema": 1,
+        "modId": "EotU.AllAttributes.v1",
+        "release": "0.1.18",
+        "buildId": "26412732",
+        "gameVersion": "1.2.1.1.0.5",
+        "files": [
+          {
+            "path": "EotU/Binaries/Win64/dwmapi.dll",
+            "length": 279552,
+            "sha256": "f8bec398fcbb2e3e8d1ef2875cafcc15d09f82073402fc9879a9cbf78b8d9514"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/LICENSE",
+            "length": 1085,
+            "sha256": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/core.lua",
+            "length": 23753,
+            "sha256": "05b474dfd18ba16d6d64aa1b831db1d3eb8a08081f5e200b2ad58e73248ff372"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/extra.lua",
+            "length": 11513,
+            "sha256": "7765c3afdfc11529fe2cfd46eeb1bac0f5edc78937e58ec58cc0f9b85d43bb58"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/foreign_ui.lua",
+            "length": 21624,
+            "sha256": "0bbeaf2df646e7b53d286a8b0851e16e959f40b89cb0cb4530a3a17a5f2bf1d5"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/groups.lua",
+            "length": 17226,
+            "sha256": "1234a33e3382b8e5c67057ae3657652b2dbfb1d6fca98f9a2651c20992eb6b3d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/main.lua",
+            "length": 72996,
+            "sha256": "a5c3996f49c1294626fb04d2dafd52bb28df16b1ddb87c3727462d86c51f6c35"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/native.lua",
+            "length": 16727,
+            "sha256": "c4e63834c313d324e5670f97ba1e44113e39e26e0c946e1fa5854039a123b3d8"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster.lua",
+            "length": 27670,
+            "sha256": "b0e5950ce2e5efb58685f5a9bdd1a71210670a83ccf119c6bfde3464ebae19e2"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_catalog.lua",
+            "length": 9354,
+            "sha256": "f892325e554bfb083d428bfee783b6e044796810627e298a049c2e5da05c3c30"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_challenge.lua",
+            "length": 14227,
+            "sha256": "6871f8a4bd1bd63363eab0aa24fc167c4add82e10ede6b70f80d95151caea962"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_home.lua",
+            "length": 12161,
+            "sha256": "9fc3aaf00ac6e8b0c641a35db16be4e9736157fefd7749156483ec8d3395e55d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_runtime.lua",
+            "length": 27638,
+            "sha256": "4e380cb835ddc1b027df5805003bf46a6c2cc91ea846f51e17e972b7e1342f71"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_state.lua",
+            "length": 15926,
+            "sha256": "0b1d54bf4103a30191844d19c72597bd0034326cb184ca807896892e8992688d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/roster_ui.lua",
+            "length": 36092,
+            "sha256": "ffc4f9460ac22f6288ef4119a93effda8ee523e51f3f85449e493f3449abec64"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/sha256.lua",
+            "length": 2241,
+            "sha256": "ce72e83852f8b721a213561f2ad14ce0b3cba4cf2d2847d1672c4d9578f77b91"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills.lua",
+            "length": 9672,
+            "sha256": "b133c938f1d6076e78537a9618b8973f797b9083e1e1d66a4dcb719e39993749"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_purchase.lua",
+            "length": 16454,
+            "sha256": "efa7043f2a945d1b8605cdd9c7396e62309025a4d6c4b34a51de3b5f4d50c0f2"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_runtime.lua",
+            "length": 27529,
+            "sha256": "1149eea2f31a393d33e4ced74c81b174f0608391b283083c23f63c09716cfb2e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_state.lua",
+            "length": 6268,
+            "sha256": "e2d98e36baa742c2ac5693605fb17cdd7d515f1290c6715474affb253212ba0d"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/skills_ui.lua",
+            "length": 32708,
+            "sha256": "1640964fdad3229232c7082d322063cc919e0d81c6df760d6c09cb53c6edec31"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_balance.lua",
+            "length": 13642,
+            "sha256": "d8c0494c94da4afbaa96ea899cff873876d2bb8532a28bbaa5c1820619e5be99"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_controls_ui.lua",
+            "length": 22822,
+            "sha256": "33c80b435778783da9067d6de61c83b9a936dd7efdb8e0deb044dd5c660fd69c"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_conversion.lua",
+            "length": 35950,
+            "sha256": "0c2655f146120311aa654e550c9ff80e0ebefb8c14fb8d3c01420f939b89cf7f"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_conversion_animation.lua",
+            "length": 28873,
+            "sha256": "185624337e4a681a823828ef57106782c3e415006106891f5b28952c50cbdc44"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_damage_guard.lua",
+            "length": 5868,
+            "sha256": "9b2bc5260f31b5710da2c0a9aaf741313a66c41125e4b46d258be4629e00da2c"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_food.lua",
+            "length": 22564,
+            "sha256": "b2711a630a492bb045d1531014cbe749d11a37a397ad7127fdd3c0ead7a7405b"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_medical.lua",
+            "length": 12998,
+            "sha256": "ca178772e66b27bfba0cedb18dd05a737b30c3f01b9ccebb825f7d45a6649b8e"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_native.lua",
+            "length": 53530,
+            "sha256": "4d041dca9aaf8dda3098f34112fb01bed377b0eefda6a8da350e26b56ee084b5"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_objectives.lua",
+            "length": 7996,
+            "sha256": "3910b7e690741cdc77d4cbe1d9214ec72557b20b0a36e39dfc47f5c0869d00f1"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/slaver_runtime.lua",
+            "length": 36504,
+            "sha256": "c436b268e08c8896dbcd47f16531be15a63f602e3033043a49181f710fc28dea"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/ui.lua",
+            "length": 67701,
+            "sha256": "ff0d0c3e11ff19dd3b13dd2692447b0e6e34d38114cbfefb403e884d15722ee8"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/AllAttributes/Scripts/unicode_fs.lua",
+            "length": 3072,
+            "sha256": "bc7779b42d0e204af34cc067790e05cfbbc938b42ff5ac635e85c46ba9c7b2e3"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/Mods/mods.txt",
+            "length": 19,
+            "sha256": "d4949abd72cbe73c584e0e24f178f6668db89966ee9d28ada751a6ca8744ef05"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/UE4SS.dll",
+            "length": 20641280,
+            "sha256": "c273e7228687b647226fd63d7ca65888d313ece6be18996ec1320d00a5efe1f8"
+          },
+          {
+            "path": "EotU/Binaries/Win64/ue4ss/UE4SS-settings.ini",
+            "length": 9558,
+            "sha256": "c17508a7e2b186ddc91847823a040a8d6087dfa7ad89c4e42b21c2c926da4f39"
+          }
+        ]
+      }
+    }
+  ],
+  "sourceReviewMetadata": true
+}

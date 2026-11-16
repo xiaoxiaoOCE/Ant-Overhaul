@@ -1,0 +1,54 @@
+Ant Overhaul / 蚂蚁大修 0.2.0 — third-party notices
+
+UE4SS and its proxy loader
+-------------------------
+Upstream: https://github.com/UE4SS-RE/RE-UE4SS
+Based on: v3.0.1-1183-gcdbc0b66
+Pinned commit: cdbc0b66cb2bb5b4a3d2f69b6e61a8460961e54c
+
+This distribution includes a locally modified UE4SS.dll. Ant Overhaul adds a small Blueprint-hook name prefilter to the pinned official binary. Possible matches and unsupported layouts retain the original lookup. This is not an unchanged upstream UE4SS release and is not an official UE4SS build.
+
+Official input SHA256: c273e7228687b647226fd63d7ca65888d313ece6be18996ec1320d00a5efe1f8
+Patched output SHA256: 46c90c1a89a778da039f397681c4f6b34cb046d6e8c81f5881c09f5515685c9d
+Proxy dwmapi.dll SHA256: f8bec398fcbb2e3e8d1ef2875cafcc15d09f82073402fc9879a9cbf78b8d9514
+
+The source-review package includes patch-source/ue4ss-blueprint-prefilter/build.py and prefilter.s, with exact-input rebuild instructions. The upstream copyright and MIT license are reproduced below and also retained in EotU/Binaries/Win64/ue4ss/LICENSE.
+
+本发行包中的UE4SS.dll包含蚂蚁大修添加的局部预筛选补丁，不能称为“未经修改的官方UE4SS”。基础版本、补丁源码、输入输出哈希与重建方法已列明。
+
+MIT License
+
+Copyright (c) 2022 Narknon
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Empires of the Undergrowth assets
+--------------------------------
+The mod's custom animation and particle resources include modified/retargeted material derived from Empires of the Undergrowth. The original game, models, animations, materials, logo and other original assets remain the work of their respective owners, including Slug Disco Studios. Ant Overhaul credits its own modifications separately and does not claim authorship of the original game resources.
+
+Branding resources
+------------------
+The Empires of the Undergrowth logo identifies the game. The Nexus Mods name and link icon identify Nexus Mods. These names and original branding remain the work of their respective owners.
+
+Build/verification tools
+------------------------
+repak: https://github.com/trumank/repak — used only to independently inspect the generated resource PAK. It is not a runtime dependency of this mod. If a distribution includes its binaries or source, also include the corresponding MIT/Apache-2.0 notices from that tool.
+
+Microsoft .NET Framework is an installer build/runtime prerequisite obtained separately; its compiler and reference assemblies are not included in this source archive.
